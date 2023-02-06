@@ -1,0 +1,14 @@
+main{
+    padding: 10px;
+  }
+
+.sidebar{
+  position: fixed;
+  top: 2%;
+  margin-top: 2px;
+}
+
+.post-html a{
+  color: #333;
+  text-decoration: underline;
+}

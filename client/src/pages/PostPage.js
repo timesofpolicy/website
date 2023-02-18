@@ -22,8 +22,8 @@ const PostPage = () => {
     if(!postInfo) return '';
   return (
     <>
-        <main className="pt-20 pb-16 lg:pt-16 lg:pb-24 bg-white post-page">
-            <div className="flex justify-between px-4 mx-auto max-w-screen-xl ">
+        <main className="pt-32 pb-16 lg:pt-16 lg:pb-24 bg-white post-page">
+            <div className="flex justify-between px-4 mx-auto max-w-screen-xl mt-4">
                 <article className="mx-auto w-full max-w-2xl format format-sm sm:format-base lg:format-lg format-blue">
                     <header className="mb-4 lg:mb-6 not-format">
                         <address className="flex items-center mb-6 not-italic">

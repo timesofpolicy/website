@@ -5,8 +5,6 @@ const Index = () => {
   return (
     <>
     <Post />
-    <Post />
-    <Post />
     </>
   )
 }

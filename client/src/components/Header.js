@@ -6,10 +6,7 @@ import { UserContext } from '../context/UserContext'
 
 
 const navigation = [
-  { name: 'Dashboard', href: '#', current: true },
-  { name: 'Team', href: '/singlePost', current: false },
-  { name: 'Projects', href: '#', current: false },
-  { name: 'Calendar', href: '#', current: false },
+  { name: 'Dashboard', href: '/', current: true },
 ]
 
 function classNames(...classes) {

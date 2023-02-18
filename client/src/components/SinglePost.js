@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 const SinglePost = ({_id, title, summary, cover, content, createdAt, author}) => {
   return (
-    <div className='mt-12 px-4'>
+    <div className='mt-16 px-4'>
             {/* Post box main starts */}
             <div className='border-b py-2 pb-8'>
               {/* post author and date */}
